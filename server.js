@@ -11,7 +11,7 @@
 
   // configuration =================
 
-  var database = require('./config/database');
+  var database = require('./config/database.js');
   mongoose.connect('database.url');   // connect to mongoDB database on modulus.io
 
   app.use(express.static(__dirname + '/public'));         // set the static files location /public/img will be /img for users

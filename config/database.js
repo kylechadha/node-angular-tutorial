@@ -1,3 +1,3 @@
 module.exports = {
-  url : 'mongodb://node:node@mongo.onmodulus.net:27017/uwO3mypu'
-};
+  'url' : 'mongodb://kyle:node@proximus.modulusmongo.net:27017/uDube6xy'
+}
